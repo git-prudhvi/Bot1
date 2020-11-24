@@ -1,7 +1,7 @@
 {
-  "name": "X-tra Telegram",
-  "description": "Userbot created by a SNAPDRAGON and custom fork by ANUBIS\n\n join https://t.me/XtraTgChat for any problems or support",
-  "logo": "https://telegra.ph/file/1be6c59f53fef57b5745b.jpg",
+  "name": "Bot1",
+  "description": "Userbot created by a LUFFY",
+  "logo": "https://telegra.ph/Luffy-11-24",
   "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Dark-Princ3/X-tra-Telegram/",
+  "repository": "https://github.com/git-prudhvi/Bot1",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
